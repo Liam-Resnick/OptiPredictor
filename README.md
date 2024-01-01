@@ -27,7 +27,7 @@ I implemented a machine learning algorithm to quantify the probability of custom
 - First place at Pennsylvania Junior Academy of Science State Science Fair
 
 ## Materials
-[Slides](optpresentation.pdf) presented in 2021 at:
+[Slides](optpresentation.pdf) presented in 2022 at:
 - Pennsylvania Junior Academy of Science Regional Science Fair
 - Pennsylvania Junior Academy of Science State Science Fair
 - Montgomery Country Research Competition
